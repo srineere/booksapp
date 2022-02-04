@@ -6,6 +6,7 @@ Start the server
   npm start
   ```
 Use postman or similar apllication
+
 Routes:
 - http://localhost:3000/api/        - [GET]     - Body:empty        - get all users details
 - http://localhost:3000/api/        - [POST]    - Body: id          - update isPaymentMade and referred users' totalEarnings
